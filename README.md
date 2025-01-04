@@ -1,6 +1,6 @@
 <h1 align="center">Shachiru Rashmika Wijegunarathne</h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-avatar-link" alt="profile" width="200" />
+ 
 </p>
 
 <p align="center">

@@ -46,33 +46,6 @@ I am a passionate **Software Engineering undergraduate** with expertise in **fro
 
 ---
 
-## 🛠️ Projects
-### **1. WasteWatch Mobile App**
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-app-demo.gif" alt="WasteWatch Demo" width="400" />
-</p>
-- **Description:** A mobile app for waste management and household composting.  
-- **Tech Stack:** React Native, Node.js, Express.js, MongoDB  
-- **Role:** Developed the Eco Bin section (frontend & backend).
-
----
-
-### **2. Diamonds.lk Website**
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-site-demo.gif" alt="Diamonds.lk Demo" width="400" />
-</p>
-- **Description:** A website for a jewelry shop.  
-- **Tech Stack:** React, Node.js, Express.js, MongoDB  
-- **Role:** Developed Showcase Management (frontend & backend) and UI for Login & Home.
-
----
-
-### **3. Rhythm Conflict Website**
-- **Description:** A voting platform for a reality show.  
-- **Tech Stack:** PHP  
-- **Role:** Developed Results Management.
-
----
 
 ## 🏆 Certifications
 - Diploma in Information Technology (Pearson)

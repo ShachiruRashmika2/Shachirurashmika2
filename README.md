@@ -67,7 +67,8 @@ I am a passionate **Software Engineering undergraduate** with expertise in **fro
 
 ## 📫 Let's Connect
 <p align="center">
-  <a href="mailto:Shachiru@outlook.com"><img src="https://img.icons8.com/?size=100&id=ut6gQeo5pNqf&format=png&color=000000"  width="50" /></a>
+  <a href="mailto:Shachiru@outlook.com"><img src="https://img.icons8.com/?size=100&id=ut6gQeo5pNqf&format=png&color=000000"  width="50" /></a> 
+  <a href="mailto:sachierush11@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"  width="50" /></a>
   <a href="https://www.linkedin.com/in/shachirur"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"  width="50"/></a>
   <a href="https://github.com/ShachiruRashmika2"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg"  width="50" /></a>
 </p>

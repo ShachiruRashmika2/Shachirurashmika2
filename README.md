@@ -40,7 +40,7 @@ I am a passionate **Software Engineering undergraduate** with expertise in **fro
 </p>
 
 ### **Languages**
-- Python | JavaScript | PHP | Dart | C++ | C
+- Java | Python | JavaScript | PHP | Dart | C++ | C
 
 ### **Frameworks & Libraries**
 - React | Node.js | Express | Flutter

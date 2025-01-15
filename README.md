@@ -18,7 +18,8 @@ I am a passionate **Software Engineering undergraduate** with expertise in **fro
 ## 🚀 Skills
 <p align="center">
 
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" alt="JavaScript Logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="50" alt="Java Logo" />
+   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" alt="JavaScript Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="50" alt="Php Logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" alt="Html Logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="50" alt="C Logo" />

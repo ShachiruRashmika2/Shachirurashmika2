@@ -36,6 +36,7 @@ I am a passionate **Software Engineering undergraduate** with expertise in **fro
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="50" alt="postman Logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="50" alt="Dart Logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="50" alt="Docker Logo" />
+   <img src="https://cdn.worldvectorlogo.com/logos/koa.svg" width="50" alt="koa Logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="50" alt="Photoshop Logo" />
   
 </p>

@@ -42,10 +42,10 @@ I am a passionate **Software Engineering undergraduate** with expertise in **fro
 </p>
 
 ### **Languages**
-- Java | Python | JavaScript | PHP | Dart | C++ | C
+- Java | Python | JavaScript | PHP | C++ | C
 
 ### **Frameworks & Libraries**
-- React | Node.js | Express | Flutter
+- React | Node.js | Express 
 
 ### **Databases**
 - MongoDB | SQL

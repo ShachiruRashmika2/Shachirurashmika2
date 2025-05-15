@@ -27,16 +27,16 @@ I am a passionate **Software Engineering undergraduate** with expertise in **fro
     <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" alt="Python Logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" alt="React Logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" alt="Node.js Logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="50" alt="Flutter Logo" />
+
   <img src="https://img.icons8.com/?size=100&id=9Gfx4Dfxl0JK&format=png&color=000000" width="50" alt="Express.js Logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" alt="MongoDB Logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" width="50" alt="MySQL Logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" width="40" alt="Figma Logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" alt="git Logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="50" alt="postman Logo" />
-  <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="50" alt="Dart Logo" />
+
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="50" alt="Docker Logo" />
-   <img src="https://cdn.worldvectorlogo.com/logos/koa.svg" width="50" alt="koa Logo" />
+
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="50" alt="Photoshop Logo" />
   
 </p>

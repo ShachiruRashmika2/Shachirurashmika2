@@ -36,6 +36,7 @@ I am a passionate **Software Engineering undergraduate** with expertise in **fro
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="50" alt="postman Logo" />
 
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="50" alt="Docker Logo" />
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50" alt="nextjs Logo" />
 
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="50" alt="Photoshop Logo" />
   
@@ -45,7 +46,7 @@ I am a passionate **Software Engineering undergraduate** with expertise in **fro
 - Java | Python | JavaScript | PHP | C++ | C
 
 ### **Frameworks & Libraries**
-- React | Node.js | Express 
+- React | Node.js | Express | Next.js
 
 ### **Databases**
 - MongoDB | SQL
